@@ -37,11 +37,6 @@ This challenge reinforced:
 
 ---
 
-## 📎 LinkedIn Post  
-📌 [Read about my approach and experience →](#) *(Insert your LinkedIn post link here)*
-
----
-
 ## 📄 License
 MIT License. Feel free to use and build upon this project with attribution.
 
